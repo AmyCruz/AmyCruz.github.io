@@ -26,7 +26,19 @@ nav  {
 	margin: 5px;
 	padding: 5px;
 	
-        }	
+        }
+        
+li    {
+	background-color: #00aeff; 
+	color: #FFFFFF;
+	position: relative;
+	/*top: 26px;
+	left: 16%; */
+	display: inline;
+	margin: 5px;
+	padding: 5px;
+	
+	}
 
 div
 {
