@@ -1,9 +1,6 @@
 
 
-#page-wrap {
-     width: 800px;
-     margin: 0 auto;
-}
+
 
 body
 {
@@ -44,13 +41,6 @@ li    {
 	
 	}
 
-div
-{
-background-color:#ffffff;
-display: block;
-width: 760px
-float: both;
-}
 
 footer {
 	background-color: #FF6699;
