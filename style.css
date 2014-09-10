@@ -3,7 +3,23 @@ html   {
 	background-color: #FFFFFF;
 
 	}
+	
+nav  {
+	background-color: #00aeff;
+	margin: 5px;
+	padding: 5px;
+	
+        }	
 body {
   font: 18px/24px helvetica, sans-serif;
   margin: 0;
 }
+
+
+footer {
+	background-color: #00aeff;
+	color: #FFFFFF;
+	margin: 5px;
+	padding: 5px;
+	
+       }
