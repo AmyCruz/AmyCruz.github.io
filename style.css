@@ -5,6 +5,10 @@ background-image: url("");
 
 }
 
+@-ms-viewport {
+  width: device-width;
+        }
+
 *{
   font-family: Arial, Verdana;
 
