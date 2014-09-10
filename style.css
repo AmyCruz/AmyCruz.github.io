@@ -1,7 +1,8 @@
-html   {
-	/*text-align: center;*/
-	background-color: #FFFFFF;
 
+
+#page-wrap {
+     width: 800px;
+     margin: 0 auto;
 }
 
 body
