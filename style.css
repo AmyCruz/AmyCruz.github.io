@@ -23,7 +23,13 @@ nav  {
 	
         }	
 
-
+div
+{
+background-color:#ffffff;
+display: block;
+width: 760px
+float: both;
+}
 
 footer {
 	background-color: #FF6699;
