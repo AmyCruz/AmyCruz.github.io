@@ -1,8 +1,20 @@
-html   {
-	/*text-align: center;*/
-	background-color: #FFFFFF;
+body
+{
+/* background-color:ffffff; */
+background-image: url("");
 
-	}
+}
+
+*{
+  font-family: Arial, Verdana;
+
+}
+
+#container {
+	width: 960px;
+	margin: 0 auto 0 auto;
+	min-height: 900px;
+}
 	
 nav  {
 	background-color: #00aeff;
@@ -10,10 +22,7 @@ nav  {
 	padding: 5px;
 	
         }	
-body {
-  font: 18px/24px helvetica, sans-serif;
-  margin: 0;
-}
+
 
 
 footer {
