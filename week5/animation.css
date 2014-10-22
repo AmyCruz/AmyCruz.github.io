@@ -1,0 +1,45 @@
+}
+
+#image {
+  width: 80%;
+  margin: auto;
+ 
+}
+
+
+	
+nav  {
+	background-color: #FFFFFF;
+	color: #FFFFFF;
+	margin: 0 auto;
+	padding: 3px;
+	position: relative;
+	
+        }
+        
+        
+
+
+li    {
+	background-color: #000000; 
+	color: #FFFFFF;
+	position: relative;
+	/*top: 26px;
+	left: 16%; */
+	display: inline;
+	margin: 5px;
+	padding: 5px;
+	
+	}
+
+
+
+
+footer {
+	background-color: #000000;
+	color: #FFFFFF;
+	margin: 0 auto;
+	padding: 5px;
+
+	position: relative;
+       }
