@@ -1,0 +1,81 @@
+body
+
+
+@-ms-viewport {
+  width: device-width;
+        }
+
+*{
+  font-family: Helvetica Neue, helvetica;
+
+}
+
+body { text-align: center; }
+
+
+#container {
+  width: 75%;
+  margin: auto;
+}
+
+#main {
+	width: 100%;
+	 margin: auto;
+
+	
+}
+
+
+
+	
+}
+
+
+	
+nav  {
+	background-color: #FFFFFF;
+	color: #FFFFFF;
+	margin: 0 auto;
+	padding: 9px;
+	
+	
+        }
+        
+        
+h1 {
+	font-family: "open sans condensed", "helvetica neue", helvetica, arial, sans-serif;
+	font-size: 50px;
+	line-height: 60px;
+	letter-spacing: 0.2em;
+	font-weight: 100;
+	text-transform: uppercase;
+}
+
+li    {
+	background-color: #000000; 
+	color: #FFFFFF;
+	position: relative;
+	/*top: 26px;
+	left: 16%; */
+	display: inline;
+	margin: 5px;
+	padding: 6px;
+	
+	}
+
+img {
+
+	width: 70%;
+
+}
+
+
+
+footer {
+	background-color: #000000;
+	color: #FFFFFF;
+	margin: 0 auto;
+	padding: 5px;
+
+	position: relative;
+       }
