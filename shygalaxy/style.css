@@ -12,21 +12,20 @@ body { text-align: center; }
 #logo {
   width: 100%;
   margin: 0px;
-  position: relative;
+  position: absolute;
+ 
 }
 
-a {
-    text-decoration: none;
-    color: #000000;
-    font-weight: bold;
-}
+
 
 	
 nav  {
 	background-color: #FFFFFF;
 	color: #FFFFFF;
 	margin: 0px;
-	padding: 20px;
+	padding: 0px;
+    	margin-top:-3%;
+
 	position: relative;
 	text-align:center;
         }
@@ -37,8 +36,12 @@ nav  {
     
 }
 
+a {
+    text-decoration: none;
+    color: #000000;
+    font-weight: bold;
 
-
+}
 
 
 li    {
@@ -47,16 +50,21 @@ li    {
 	position: relative;
 	/*top: 26px;
 	left: 16%; */
-	display: inline;
-	padding: 15px;
+	display: inline-block;
+	padding: 5px;
+	margin-top:0%;
 	
 	}
+	#link_cont{
+	margin_top:-10%;
+	
+	
+	
 #social {
 
 position: relative;
-  left: 300px;
-  width: 100%;
-  margin: auto;
+right: 300px;
+    
 }
 
 
