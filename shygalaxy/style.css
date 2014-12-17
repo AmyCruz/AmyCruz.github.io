@@ -1,0 +1,80 @@
+@-ms-viewport {
+  width: device-width;
+        }
+
+*{
+  font-family: Helvetica Neue, helvetica;
+
+}
+
+body { text-align: center; }
+
+#logo {
+  width: 100%;
+  margin: 0px;
+  position: relative;
+}
+
+
+
+	
+nav  {
+	background-color: #FFFFFF;
+	color: #FFFFFF;
+	margin: 0px;
+	padding: 20px;
+	position: relative;
+	text-align:center;
+        }
+        
+        
+        ul {
+    list-style-type: none;
+    
+}
+
+
+
+
+
+li    {
+	background-color: #ffffff; 
+	color: #000000;
+	position: relative;
+	/*top: 26px;
+	left: 16%; */
+	display: inline;
+	padding: 15px;
+	
+	}
+#social {
+
+position: relative;
+  left: 400px;
+  width: 100%;
+  margin: auto;
+}
+
+
+#container {
+  width: 100%;
+  margin: auto;
+}
+
+#image {
+  width: 70%;
+  margin: auto;
+  position: relative;
+  padding: 45px;
+ 
+}
+
+
+footer {
+	background-color: #ffffff;
+	color: #000000;
+	margin: 0 auto;
+	padding: 5px;
+
+	position: relative;
+       }
